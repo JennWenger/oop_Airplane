@@ -1,0 +1,7 @@
+C:\Users\dewijw1\source\repos\Airplane\Airplane\obj\Debug\Airplane.csprojAssemblyReference.cache
+C:\Users\dewijw1\source\repos\Airplane\Airplane\obj\Debug\Airplane.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\source\repos\Airplane\Airplane\bin\Debug\Airplane.exe.config
+C:\Users\dewijw1\source\repos\Airplane\Airplane\bin\Debug\Airplane.exe
+C:\Users\dewijw1\source\repos\Airplane\Airplane\bin\Debug\Airplane.pdb
+C:\Users\dewijw1\source\repos\Airplane\Airplane\obj\Debug\Airplane.exe
+C:\Users\dewijw1\source\repos\Airplane\Airplane\obj\Debug\Airplane.pdb
